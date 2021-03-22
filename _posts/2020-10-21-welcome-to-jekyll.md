@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "First Code"
-date:   2020-10-21 00:00:00 +0900
+title:  "HTML5 첫 날"
+date:   2020-10-21 09:00:00 +0900
 categories: HTML
 ---
 ## 학원 첫수업
